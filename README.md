@@ -63,4 +63,4 @@ Inclui cadastro de usuários, login, integração com banco de dados e estrutura
 
 - GitHub: https://github.com/vitormelo09
 - LinkedIn: https://www.linkedin.com/in/vitor-marques-1968523b9/
-- Email: vimelomarques4@gmail.com
+- Email: vimelomarques@icloud.com
