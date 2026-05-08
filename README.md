@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:vimelomarques4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
 </div>
 
 ---
@@ -50,6 +46,16 @@ Projeto desenvolvido em grupo com site de notícias, eventos, feed e perfil de u
 
 - Front-end: https://github.com/vitormelo09/Ecohub-certo
 - API: https://github.com/vitormelo09/Ecohub-api-certo
+
+---
+
+### API Sistema de Login e Cadastro
+
+Projeto desenvolvido individualmente com foco em autenticação de usuários utilizando Node.js, Express e MySQL.
+
+Inclui cadastro de usuários, login, integração com banco de dados e estrutura de API REST.
+
+- Repositório: https://github.com/vitormelo09/api-Sistema-login-cadastro
 
 ---
 
