@@ -59,7 +59,7 @@ Inclui cadastro de usuários, login, integração com banco de dados e estrutura
 
 ---
 
-### API Livraria
+### API Livraria (em desenvolvimento)
 
 Projeto desenvolvido individualmente com foco em gerenciamento de livros utilizando Node.js, Express e MongoDB.
 
