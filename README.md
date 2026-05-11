@@ -32,7 +32,7 @@ Tenho interesse na área de tecnologia e busco minha primeira oportunidade como 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,python,mysql,mongodb,git,github,vscode" />
 
 </div>
 
@@ -56,6 +56,16 @@ Projeto desenvolvido individualmente com foco em autenticação de usuários uti
 Inclui cadastro de usuários, login, integração com banco de dados e estrutura de API REST.
 
 - Repositório: https://github.com/vitormelo09/api-Sistema-login-cadastro
+
+---
+
+### API Livraria
+
+Projeto desenvolvido individualmente com foco em gerenciamento de livros utilizando Node.js, Express e MongoDB.
+
+Inclui cadastro, listagem, atualização e remoção de livros, integração com banco de dados NoSQL e estrutura de API REST.
+
+- Repositório: https://github.com/vitormelo09/Api-Livraria.git
 
 ---
 
