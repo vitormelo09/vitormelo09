@@ -63,8 +63,6 @@ Inclui cadastro de usuários, login, integração com banco de dados e estrutura
 
 Projeto desenvolvido individualmente com foco em gerenciamento de livros utilizando Node.js, Express e MongoDB.
 
-Inclui cadastro, listagem, atualização e remoção de livros, integração com banco de dados NoSQL e estrutura de API REST.
-
 - Repositório: https://github.com/vitormelo09/Api-Livraria.git
 
 ---
